@@ -1,23 +1,21 @@
 .. _doc_project_organization:
 
-Project organization
+项目管理
 ====================
 
-Introduction
+简介 
 ------------
 
-This tutorial is aimed to propose a simple workflow on how to organize
-projects. Since Godot allows the programmer to use the file-system as he
-or she pleases, figuring out a way to organize the projects when
-starting to use the engine can be a little challenging. Because of this,
-a simple workflow will be described, which can be used or not, but
-should work as a starting point.
+本教程是为了介绍一种组织、管理项目的简单工作流程。因为Godot允许程序员以他或她喜欢的文件系统工作，所以在刚开始使用引擎时，就找到一种管理项目的方法，并不是一件容易的事。因此，我们提出了一种简单的工作流程，无论你使用还是不使用，都可以作为一个很好的起点来进行项目管理。
 
-Additionally, using version control can be challenging so this
-proposition will include that too.
+另外，使用版本管理工具可能也并不简单，这一部分也会包含在本教程中。
 
-Organization
+管理
 ------------
+
+其他一些游戏引擎往往使用资源数据库的方式来进行管理，你可以在数据库中查看图片、模型、声音等等。
+
+
 
 Other game engines often work by having an asset database, were you can
 browse images, models, sounds, etc. Godot is more scene-based in nature
